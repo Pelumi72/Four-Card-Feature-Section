@@ -58,7 +58,7 @@ img {
     display: grid;
     grid-template-rows: 1fr 1fr;
     box-shadow: 5px 5px 5px 5px hsl(229, 6%, 66%);
-    padding: 0 2.65rem 1.5rem;
+    padding: 0 1.75rem 1.5rem;
 }
 
 .supervisor {
